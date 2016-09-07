@@ -1,0 +1,25 @@
+.logo {
+	height: 80px;
+	width: 80px;
+}
+.ch {
+	height: 300px;
+	width: 300px;
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.imgslide {
+	margin-right: auto;
+	margin-left: auto;
+}
+body {
+	padding: 15px;
+	background-color: grey;
+}
+h1 {
+	text-align: center;
+}
+button {
+	float: right;
+}
