@@ -8,6 +8,7 @@
 	padding: 15px;
 	margin-left: auto;
 	margin-right: auto;
+	border-radius: 10px 10px 10px 10px;
 }
 .imgslide {
 	margin-right: auto;
@@ -15,11 +16,15 @@
 }
 body {
 	padding: 15px;
-	background-color: grey;
+	background-color: #d2c5c5;
 }
 h1 {
 	text-align: center;
 }
 button {
 	float: right;
+}
+nav {
+	margin-bottom: auto;
+	margin-top: auto;
 }
